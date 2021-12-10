@@ -8,6 +8,7 @@
 
 ## Screenshots 
 <strong>Home</strong><br />
+The Home screen is displayed at `/`<br />
 - The `create deck` button brings the user to a new page to create a fresh deck.<br />
 - Existing decks are displayed with the deck name, the number of cards, and a `study`, `view`, and `delete` button.<br />
 - The `study` button brings the user to the Study screen.<br />
