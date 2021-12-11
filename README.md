@@ -4,7 +4,7 @@
 ## Installation 
 1. Fork/Clone this repository
 2. Run `npm install` to load all dependencies
-3. Use `cd` into `/front-end` and `npm start` to host the server locally
+3. `cd` into `/front-end` and `npm start` to host the server locally
 
 ## Screenshots 
 <strong>Home</strong><br />
